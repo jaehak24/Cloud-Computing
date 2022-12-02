@@ -39,6 +39,17 @@
     1. 다양한 운영체제, 하드웨어 지원
     
   ## AMI(Amazon Machine Image)
+  EC 2를 서비스를 활용하기 위해서는 작업 환경에 Instance를 불러와야 한다. 이 과정에 있어서 AMI는 Instance의 운영체제, 하드웨어 등 가상환경을 구성해주는 역할을 한다.
   ![image](https://user-images.githubusercontent.com/65396939/205220395-cbc14854-e944-406e-8488-2b6af3d73fb0.png)
+<AMI 선택환면>                                                                                
 
+
+# RDS(Relational Database Service)
+1. 다양한 데이터베이스 엔진 제공
+![image](https://user-images.githubusercontent.com/65396939/205222089-e62efcf6-9c86-4862-9de8-  7bb1f9e6a444.png)
+2. 데이터베이스 유지 보수, 관리가 용이
+
+# S3
+
+    
   
